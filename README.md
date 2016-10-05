@@ -26,7 +26,7 @@ There are many sources of data already on the web. Instead of simulating your ow
 
 ###Raw Data Downloads
 
-This is the simplest way to get data from the internet. If somone has been kind enough to post all of their data in a database or csv file, you can simply download it and use it locally. This is the most common way to obtain a dataset. Websites like Kaggle and Data.gov offer free, searchable, easy to download datasets. 
+This is the simplest way to get data from the internet. If somone has been kind enough to post all of their data in a database or csv file, you can simply download it and use it locally. This is the most common way to obtain a dataset. Websites like Kaggle and Data.gov offer free, searchable, easy to download datasets. See https://www.kaggle.com/wiki/DataSources for more.
 
 ###APIs
 
